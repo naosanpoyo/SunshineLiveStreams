@@ -77,7 +77,7 @@ const settings = {
 ```
 
 # 起動方法
-１．「index.」をダブルクリックします。
+１．「index.html」をダブルクリックします。
 
 <img src="https://user-images.githubusercontent.com/46115363/218244731-92cd2b6a-b601-4d46-81f8-0b7112cd3659.png" width="400">
 
