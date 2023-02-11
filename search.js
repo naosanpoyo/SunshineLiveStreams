@@ -27,7 +27,7 @@ function search() {
 				const { title, thumbnails, channelTitle } = item.snippet;
 				str += `
 				<div class="stream-container">
-					<a href="https://www.youtube.com/live/${videoId}">
+					<a href="https://www.youtube.com/live/${videoId}" target="_blank" rel="noopener noreferrer">
 						 <img src="${thumbnails.medium.url}" />
 						 <h2>${title}</h2>
 						 <p>${channelTitle}</p>
